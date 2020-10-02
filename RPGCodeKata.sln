@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGCodeKata", "RPGCodeKata\RPGCodeKata.csproj", "{F576A31B-FEBD-4C97-8769-953A51D9C20D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGClasses", "RPGClasses\RPGClasses.csproj", "{4982D552-E24F-4016-BE34-D185B2F49E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F576A31B-FEBD-4C97-8769-953A51D9C20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F576A31B-FEBD-4C97-8769-953A51D9C20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F576A31B-FEBD-4C97-8769-953A51D9C20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F576A31B-FEBD-4C97-8769-953A51D9C20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4982D552-E24F-4016-BE34-D185B2F49E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4982D552-E24F-4016-BE34-D185B2F49E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4982D552-E24F-4016-BE34-D185B2F49E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4982D552-E24F-4016-BE34-D185B2F49E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {969047C2-1106-47B2-9AB2-F9CB85CAFCC7}
+	EndGlobalSection
+EndGlobal
